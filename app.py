@@ -15,6 +15,7 @@ def stats():
         	'ram': psutil.virtual_memory().percent,
         	'disk': psutil.disk_usage('/').percent,
         	'hostname': socket.gethostname(),
+		'version': '1.1'
 		'uptime': int(psutil.boot_time())
 	})
 
