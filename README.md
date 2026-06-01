@@ -39,4 +39,4 @@ dashboard/
 ```
 ## Screenshots
 
-![Grafana Dashboard](<img width="1568" height="745" alt="preview" src="https://github.com/user-attachments/assets/4e08740b-9a6e-4237-bcc9-598a4129b650" />)
+<img width="1568" height="745" alt="preview" src="https://github.com/user-attachments/assets/8f3587c8-4cfa-4c28-90ea-2fcf62ddccb0" />
