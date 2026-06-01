@@ -37,3 +37,6 @@ dashboard/
     ├── style.css       # Styles
     └── app.js          # Charts & API calls
 ```
+## Screenshots
+
+![Grafana Dashboard](screenshots/grafana.png)
