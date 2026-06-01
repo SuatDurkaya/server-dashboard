@@ -18,7 +18,4 @@ jobs:
           script: |
             cd ~/dashboard
             git pull
-            docker build -t dashboard .
-            docker stop dashboard || true
-            docker rm dashboard || true
-            docker run -d -p 5000:5000 --name dashboard --restart always dashboard
+            docker compose up -d --build
